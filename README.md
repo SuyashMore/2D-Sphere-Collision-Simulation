@@ -2,7 +2,7 @@
 Gravity and Collision Simulation
 using C++ SFML Graphics Library.
 
-Run with VS-2017 
+Build and Run with Microsoft Visual Studio 2017 
 
 ### Variable Parameters (change in simulation.cpp)
 
