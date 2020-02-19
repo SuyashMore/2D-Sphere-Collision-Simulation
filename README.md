@@ -1,4 +1,4 @@
-# C-Particles-Simulation
+# C++ 2D Particle Simulation
 Gravity and Collision Simulation
 using C++ SFML Graphics Library.
 
