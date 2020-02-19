@@ -7,7 +7,7 @@ Run with VS-2017
 
 ### Example
 
-![alt text](https://github.com/SuyashMore/2D-Sphere-Collision-Simulation/blob/master/demo.JPG "Logo Title Text 1")
+![alt text](https://github.com/SuyashMore/2D-Sphere-Collision-Simulation/blob/master/demo.JPG)
 
 
 ### References
