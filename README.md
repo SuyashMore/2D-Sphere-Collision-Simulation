@@ -4,6 +4,20 @@ using C++ SFML Graphics Library.
 
 Run with VS-2017 
 
+### Variable Parameters (change in simulation.cpp)
+
+```cpp
+#define WALL_FRICTION 0.5f
+#define FLOOR_FRICTION 0.8f
+#define CEIL_FRICTION 0.3f
+#define GRAVITY 5.0f
+#define D_TIME 0.003f
+
+#define RADIUS 20.0f
+#define FORCE_MULTIPLIER 0.2f
+#define MINIMUM_FORCE_TO_RELEASE 20.0f
+#define CLOCK_CORRECTION 0.5f
+```
 
 ### Example
 
